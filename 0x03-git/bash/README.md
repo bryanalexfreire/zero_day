@@ -1,1 +1,0 @@
-In this project you will find a files by js, bash and c
